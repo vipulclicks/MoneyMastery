@@ -19,12 +19,13 @@ A clean, SwiftUI-based personal finance tracker for iOS that helps users manage 
 ---
 
 ## 📸 Screenshots
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/7fb73b7d-a34e-4d93-a368-225feb6bc8f7" />
 
-> Screenshots will be added once UI polish is finalized.
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/e80681bb-ad64-4a57-b051-5021925cfee4" />
 
-| Home Screen | Add Transaction | Analytics |
-|------------|-----------------|-----------|
-| *Monthly summary & balance* | *Quick entry form* | *Category breakdown* |
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/5331072e-02f5-4089-8b70-bb16c70bb443" />
+
+
 
 ---
 
